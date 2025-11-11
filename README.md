@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emmyjay
 - 👀I love coding 
-- 🌱 I’m currently on my first project 
+- 🌱
 - 💞️ I’m looking to collaborate with different devs
 - 📫 07045234952
